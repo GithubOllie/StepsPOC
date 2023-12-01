@@ -1,3 +1,7 @@
+#expo
+*.expo
+*.ds_store
+
 # Logs
 logs
 *.log
